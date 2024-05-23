@@ -16,9 +16,9 @@
             "role": "Developer"
         }
     ],
-    "prefer-stable": true,
-    "minimum-stability": "dev",
     "require": {
         "ankit04/laravel-salting": "^1.0"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
