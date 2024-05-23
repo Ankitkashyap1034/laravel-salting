@@ -18,5 +18,7 @@
     ],
     "prefer-stable": true,
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "ankit04/laravel-salting": "^1.0"
+    }
 }
