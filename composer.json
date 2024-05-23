@@ -16,6 +16,7 @@
             "role": "Developer"
         }
     ],
+    "prefer-stable": true,
     "minimum-stability": "dev",
     "require": {}
 }
